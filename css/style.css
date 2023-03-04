@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: #e4f9f5;
+  text-align: center;
+  font-family: "Sacramento", cursive;
+  font-family: "Montserrat", sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding: 30px;
+}
+h1 {
+  font-family: "Sacramento", serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 15%;
+  top: 25%;
+}
+.cloud2 {
+  position: absolute;
+  bottom: 50%;
+}
